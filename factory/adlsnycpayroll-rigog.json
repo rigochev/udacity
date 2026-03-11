@@ -1,0 +1,9 @@
+{
+	"name": "adlsnycpayroll-rigog",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "37e37b8c-6e13-4737-b706-fcda4791ada3",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
